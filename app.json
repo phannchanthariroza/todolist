@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "flatlist",
-    "slug": "flatlist",
+    "name": "todolist",
+    "slug": "todolist",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "flatlist",
+    "scheme": "todolist",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon"
